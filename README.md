@@ -3,7 +3,7 @@ Team leader of squidDevs.
 
 Made by a team of 7.
 
-Developed using Java and MSSQL applying BCE architectural pattern, SCRUM and OOP concepts.
+Developed using github, Java and MSSQL applying BCE architectural pattern, SCRUM and OOP concepts.
 
 The application works by a doctor prescribing a prescription to the patient the patient will recieve a email containing a token which they will show to the pharmacist to recieve their medicine.
 
